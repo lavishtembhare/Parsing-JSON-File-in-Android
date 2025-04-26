@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ListView listView;
     private static final String TAG = "MainActivity";
-    private static final String JSON_URL = "https://raw.githubusercontent.com/lavishtembhare/Parsing-Json-File/main/JSON-File/users.json";
+    private static final String JSON_URL = "https://raw.githubusercontent.com/lavishtembhare/Json-File/refs/heads/main/JSON-File/users.json?token=GHSAT0AAAAAADCSYILXXL6C23VCMLXZ4KPW2AMVVCQ";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
