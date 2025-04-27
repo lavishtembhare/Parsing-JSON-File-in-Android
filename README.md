@@ -1,4 +1,4 @@
-# JSON Parsing Android App 📱
+# JSON Parsing Android App(Get API) 📱
 
 This is an Android app that demonstrates how to fetch and display JSON data from a remote server (GitHub in this case) using `HttpURLConnection` and `AsyncTask`. The app parses the JSON data and displays a list of user names in a `ListView`. 
 
