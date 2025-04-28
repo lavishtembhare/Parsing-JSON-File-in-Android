@@ -11,7 +11,7 @@ This is an Android app that demonstrates how to fetch and display JSON data from
 
 ## Screenshots 📸
 
-![Main Screen]([https://via.placeholder.com/600x300?text=App+Screenshot](https://github.com/lavishtembhare/Json-File/blob/main/Screenshot%20(44).png))
+![Main Screen](https://github.com/lavishtembhare/Json-File/blob/main/Screenshot%20(44).png)
 
 *Main Screen showing user names fetched from the remote JSON file.*
 
